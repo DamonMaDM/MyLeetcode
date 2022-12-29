@@ -29,7 +29,10 @@ My solutions for LeetCode problems
 | 12.26 | 323  | [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph)                                             | [Python3](./323/323.py)   | Medium     | DFS/Graph            |
 | 12.26 | 937  | [Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files)                                                                                                     | [Python3](./937/937.py)   | Medium     | Sort                 |
 | 12.26 | 215  | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)                                                                                         | [Python3](./215/215.py)   | Medium     | Kth max/PQ/QuickSort |
-| 12.26 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)                                                                                                                                                              | [Python3](./347/347.py)   | Medium     |Kth max/PQ/QuickSort|
+| 12.26 | 347  | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)                                                                                                         | [Python3](./347/347.py)   | Medium     | Kth max/PQ/QuickSort |
+| 12.28 | 559  | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)                                                                                                 | [Python3](./559/559.py)   | Easy       | Tree/DFS             |
+| 12.28 | 310  | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)                                                                                                               | [Python3](./310/310.py)   | Medium     | Tree/Trim/BFS        |
+| 12.28 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)                                                                                                                                                       | [Python3](./300/300.py)   | Easy       | DP                   |
 
 
  
